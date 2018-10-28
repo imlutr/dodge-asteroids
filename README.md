@@ -12,3 +12,8 @@ Linux: `./gradlew desktop:run`
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Luca1152/dodge-asteroids/blob/master/LICENSE) file for details.
+
+## Acknowledgments
+- [ansimuz](https://ansimuz.itch.io/) - for the [graphics](https://ansimuz.itch.io/spaceship-shooter-environment)
+- [Jonathan So](https://jonathan-so.itch.io/) - for the [music](https://jonathan-so.itch.io/creatorpack)
+- [Little Robot Sound Factory](https://opengameart.org/users/little-robot-sound-factory) - for the [sound effects](https://opengameart.org/content/8-bit-sound-effects-library)
