@@ -1,7 +1,7 @@
 # Dodge Asteroids
 A 2D space shooter I made for my 10th grade CS class, in about two weeks. This is the first game I ever made (and finished), so the code isn't perfect. You can play the game [here](https://luca1152.itch.io/dodge-asteroids).
 
-<img src="/core/assets/textures/dodge-asteroids.gif?raw=true">
+<img src="/core/assets/textures/dodge-asteroids.gif?raw=true" width=450px>
 
 ## Built with
 - [Java](https://www.java.com/en/download/) - The language used
